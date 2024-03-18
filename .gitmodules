@@ -1,0 +1,6 @@
+[submodule "Compile-time-hash-functions"]
+	path = Compile-time-hash-functions
+	url = https://github.com/abbbaf/Compile-time-hash-functions.git
+[submodule "xorstr"]
+	path = xorstr
+	url = https://github.com/JustasMasiulis/xorstr.git
